@@ -4,8 +4,12 @@
 body {
   font-family: 'Montserrat', sans-serif;
 }
+.mini-header{
+  box-shadow: 0px 15px 10px -20px;
+}
 .mini-header a {
   font-size: 14px;
+  
 }
 .mini-header .shadow-btn {
   padding: 8px 15px!important;
